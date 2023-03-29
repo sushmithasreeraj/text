@@ -1,0 +1,168 @@
+
+h1{
+	color:red;
+	text-align:center;
+}
+.color{
+	color:green;
+}
+.bg{
+	background-color:black;
+	color:white;
+}
+.left{
+
+	text-align:left;
+}
+.center{
+	text-align:center;
+}
+.right{
+	text-align:right;
+}
+.justify{
+	text-align:justify;
+	border:1px solid;
+	padding:40px;
+	height:200px;
+	width:200px;
+	
+}
+.a{
+	text-align-last:right;
+}
+.b{
+	text-align-last:center;
+}
+.c{
+	text-align-last:justify;
+}
+.dir p{
+	 direction: rtl;
+  unicode-bidi: bidi-override;
+}
+.baseline img{
+  vertical-align:baseline;
+
+}  
+.top img{
+  vertical-align:text-top;
+
+} 
+.bottom img{
+  vertical-align:text-bottom;
+
+} 
+.sub img{
+  vertical-align:sub;
+
+} 
+.super img{
+  vertical-align:super;
+
+} 
+.overline{
+	text-decoration-line:overline;
+}
+.line-through{
+	text-decoration-line:line-through;
+}
+.underline{
+	text-decoration-line:underline;
+}
+.overlineunderline{
+	text-decoration-line:overline underline;
+}
+.dcolor{
+	text-decoration-line:overline underline;
+	text-decoration-color:violet;
+}
+.solid{
+	text-decoration-line:underline;
+	text-decoration-style:solid;
+}
+.double{
+	text-decoration-line:underline;
+	text-decoration-style:double;
+}
+.dotted{
+	text-decoration-line:underline;
+	text-decoration-style:dotted;
+}
+.dashed{
+	text-decoration-line:underline;
+	text-decoration-style:dashed;
+}
+
+.wavy{
+	text-decoration-line:underline;
+	text-decoration-style:wavy;
+	text-decoration-color:violet;
+}
+.auto{
+	text-decoration-line:underline;
+	text-decoration-thickness:auto;
+}
+.thick{
+	text-decoration-line:underline;
+	text-decoration-thickness:5px;
+}
+.text{
+	text-decoration-line:underline;
+	text-decoration-style:double;
+	text-decoration-color:violet;
+	text-decoration-thickness:5px;
+	  
+}
+.shorthand{
+	text-decoration:underline wavy gray 25%;
+}
+.none{
+	text-decoration:none;
+}
+.uppercase{
+	text-transform:uppercase;
+}
+.lowercase{
+	text-transform:lowercase;
+}
+.capitalize{
+	text-transform:capitalize;
+}
+.indent{
+	text-indent:80px;
+}
+.letter{
+	letter-spacing:5px;
+}
+.small{
+	line-height:0.7;
+}
+.big{
+	line-height:2;
+}
+.one{
+	word-spacing:10px;
+}
+.two{
+	word-spacing:-1px;
+}
+.whitespace{
+	white-space:nowrap;
+}
+.shadow{
+	text-shadow:2px 2px;
+}
+.sc{
+	text-shadow:2px 2px red;
+}
+.effect{
+	text-shadow:2px 2px 5px red;
+}
+
+	
+	
+	
+
+	
+	
